@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shruti-create/LC/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/shruti-create/LC/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shruti-create/LC/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shruti-create/LC/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shruti-create/LC/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shruti-create/LC/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
